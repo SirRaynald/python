@@ -6,4 +6,4 @@ x = 600
 y = 2
 u= y * x
 
-print( u)
+print(u)
